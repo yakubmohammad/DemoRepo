@@ -7,6 +7,8 @@ public class BootClass {
 	{
 		System.out.print ("checkout");
 		
+		asdfasdf
+		
 	}
 	
 
